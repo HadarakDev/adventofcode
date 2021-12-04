@@ -1,4 +1,4 @@
-$file = Get-Content C:\Users\Roche\Documents\ML\adventofcode\DAY3_POWERSHELL\input_final.txt
+$file = Get-Content C:\Users\nico_\Documents\ML\adventofcode\DAY3_POWERSHELL\input_final.txt
 $len_binary = $file[0].Length
 $gamma = New-Object System.Collections.Generic.List[Int32]
 $epsilon = New-Object System.Collections.Generic.List[Int32]
